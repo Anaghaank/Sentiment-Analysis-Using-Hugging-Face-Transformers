@@ -1,5 +1,3 @@
-# Sentiment-Analysis-Using-Hugging-Face-Transformers
-
 # **Sentiment Analysis on Customer Reviews Using Hugging Face Transformers**
 
 This project demonstrates sentiment analysis on customer reviews using Hugging Face's pre-trained **DistilBERT** model. The model is fine-tuned on the SST-2 dataset and is used to determine the sentiment of customer reviews, predicting whether the sentiment is positive or negative.
